@@ -1,0 +1,19 @@
+.add{
+   display: flex;
+   justify-content: center;
+   margin-top: 20%;
+   justify-content: space-around;
+}
+
+.plus{
+  font-size: 40px;
+  cursor: pointer;
+}
+.minus{
+  font-size: 40px;
+  cursor: pointer;
+}
+.numb{
+  font-size: 40px;
+  margin-top: 30px;
+}
